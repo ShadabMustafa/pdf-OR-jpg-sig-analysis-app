@@ -1,4 +1,4 @@
-# pdfORjpg-sig-analysis app
+# pdf-OR-jpg-sig-analysis app
 
 A CLI program which can analyze a folder directory and all of its embedded subdirectories(recursively) for possible pdf and jpg files. Then adds those files' paths
 to an output csv table, also records the original MD5 hash(used to detect file tampering) of the files. It determines whether a file is a pdf or jpg or neither via 
